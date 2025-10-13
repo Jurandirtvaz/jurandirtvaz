@@ -2,7 +2,7 @@
 
 **`FullStack Developer`**
 
-I'm a **Computer Science student at UFAPE (Federal Rural University of Pernambuco)**.  
+I'm a **Computer Science student at UFAPE**.  
 I’m passionate about technology and software development, always seeking to improve my skills in **Front-end** and **Back-end**, exploring different languages, frameworks, and best coding practices.
 
 <p align="left">
