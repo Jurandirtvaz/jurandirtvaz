@@ -19,7 +19,7 @@ I’m passionate about technology and software development, always seeking to im
 
 ### 🤖 Languages and Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,nodejs,spring,flutter,react,html,css,godot,postgres)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,nodejs,spring,react,html,css,godot,postgres)](https://skillicons.dev)
 
 ---
 
