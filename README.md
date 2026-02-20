@@ -16,28 +16,31 @@ I’m passionate about technology and software development, always seeking to im
 </p>
 
 ---
+### 💻 Tech Stack
 
-### 🤖 Languages and Technologies
+**Backend**<br>
+[![Backend Skills](https://skillicons.dev/icons?i=java,ruby,python,c,spring,godot,postgres)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=js,java,python,c,nodejs,spring,react,html,css,godot,postgres)](https://skillicons.dev)
+**Frontend**<br>
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,angular,react,typescript)](https://skillicons.dev)
+
+**Tools**<br>
+[![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,powershell)](https://skillicons.dev)
 
 ---
 
 ### 📊 GitHub Stats
 
-<p>
-   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Jurandirtvaz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Jurandirtvaz" />
-</p>
-<p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jurandirtvaz&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&card_width=325" alt="Jurandirtvaz" />
-</p>
-<br>
+<div align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Jurandirtvaz&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true" alt="Jurandirtvaz" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jurandirtvaz&show_icons=true&locale=en&layout=compact&theme=github_dark&langs_count=10&card_width=325" alt="Jurandirtvaz" />
+</div>
 <br>
 
 ---
 
 ### 🌱 Currently Learning
-- **FullStack Development** (JavaScript, Node.js, React)
+- **FullStack Development** (Java, Spring Boot, Angular)
 - **Relational and NoSQL Databases**
 - **Software Engineering and Data Structures**
 
