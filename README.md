@@ -19,10 +19,10 @@ I’m passionate about technology and software development, always seeking to im
 ### 💻 Tech Stack
 
 **Backend**<br>
-[![Backend Skills](https://skillicons.dev/icons?i=java,ruby,python,c,spring,godot,postgres)](https://skillicons.dev)
+[![Backend Skills](https://skillicons.dev/icons?i=java,ruby,python,spring,godot,postgres)](https://skillicons.dev)
 
 **Frontend**<br>
-[![Frontend Skills](https://skillicons.dev/icons?i=html,css,angular,react,typescript)](https://skillicons.dev)
+[![Frontend Skills](https://skillicons.dev/icons?i=html,css,react,typescript)](https://skillicons.dev)
 
 **Tools**<br>
 [![Tools](https://skillicons.dev/icons?i=git,github,docker,postman,powershell)](https://skillicons.dev)
